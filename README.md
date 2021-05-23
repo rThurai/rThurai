@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramanaa Thuraisingam or @rThurai on this website. 
+- 👋 Hi, I’m Ramanaa Thuraisingam.
 - 👀 I’m currently persuing a Bachelor of Commerce in Accounting and aspire to be a Chartered Professional Accountant(CPA) someday. I am using this github to showcase my skills
 in data analysis and data visualization as this is becoming more of an important skill in the field of Accounting. 
 - 🌱 I’m currently learning R, Python, SQL, Tableau, Advanced Excel/VBA and Power BI 
